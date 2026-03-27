@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GeorgeeFlash
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning and building with Next js
+- 🌱 I’m currently learning and building with Next js and Vercel's AI SDK 
 - 💞️ I’m flexible to learning any tech
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/george-tarla-ndzishepngong-756912250)
 
